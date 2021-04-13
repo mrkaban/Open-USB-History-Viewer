@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1364210757 source:d:\coding\usbhistory\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<string.h>
+
+1499869305 source:c:\users\mrkaban\desktop\usbhistory\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<Commdlg.h>
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<string.h>
+	<locale.h>
+
